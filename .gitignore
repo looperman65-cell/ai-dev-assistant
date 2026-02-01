@@ -1,0 +1,21 @@
+# Игнорируем зависимости и сборку
+node_modules/
+out/
+dist/
+
+# Файлы VS Code
+.vscode/
+*.code-workspace
+
+# Временные файлы и логи
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Скомпилированные расширения
+*.vsix
+
+# Локальные настройки
+.env
+.env.local
